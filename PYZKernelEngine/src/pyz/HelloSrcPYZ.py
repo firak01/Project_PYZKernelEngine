@@ -11,7 +11,7 @@ class HelloSrcPYZ:
        pass
     
     def compute(self, sString):
-        return "Src: Hallo " + sString
+        return "Src: Hallo " + sString + " (vom PYZKernelEngine, pyz Namespace)"
         
     
 # Code zum Test am Schluss, nur wenn diese Klasse direkt gestartet wird
